@@ -1,0 +1,1 @@
+murmura, onion, tomato, oil, chili, termeric, lemon, salt;
